@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mahdi2372">
-    <img src="./assets/hero.svg" width="100%" alt="Mahdi reverse engineering profile banner" />
+    <img src="./assets/hero.svg" width="100%" alt="Mahdi full-spectrum software engineer profile banner" />
   </a>
 
   <p>
@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/github/followers/mahdi2372?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=020617" alt="GitHub followers" />
     </a>
     <a href="https://github.com/mahdi2372?tab=repositories">
-      <img src="https://img.shields.io/badge/FOCUS-REVERSE%20ENGINEERING-06B6D4?style=for-the-badge&labelColor=020617" alt="Reverse engineering focus" />
+      <img src="https://img.shields.io/badge/SCOPE-FULL%20SPECTRUM-06B6D4?style=for-the-badge&labelColor=020617" alt="Full spectrum engineering scope" />
     </a>
     <a href="https://github.com/mahdi2372">
       <img src="https://img.shields.io/badge/MODE-AI%20ASSISTED-22C55E?style=for-the-badge&labelColor=020617" alt="AI assisted development" />
@@ -21,85 +21,113 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#the-lab">The Lab</a> •
+  <a href="#the-universe">The Universe</a> •
   <a href="#toolkit">Toolkit</a> •
   <a href="#method">Method</a> •
   <a href="#telemetry">Telemetry</a>
 </p>
 
-# Turning opaque software into clear systems.
+# Full-Spectrum Developer • Reverse Engineer • AI Builder
 
 ## About
 
-I’m **Mahdi** — a reverse engineer and software developer working at the intersection of **binary analysis, AI-assisted engineering, and practical tooling**.
+I’m **Mahdi** — a full-spectrum developer working across software, systems, AI, automation, and security-minded engineering.
 
-My core work is understanding Windows executable applications at the binary level, automating difficult or repetitive analysis, and turning technical insight into reliable software. I move comfortably between low-level behavior and high-level product thinking: observe, reason, validate, and build.
+From low-level executable and binary analysis to high-level web platforms, desktop applications, developer tools, and AI-assisted workflows, I learn the system, understand the problem, and build the right solution for it. I do not limit myself to one language, one framework, or one layer of the stack.
 
-> **Understand the binary. Automate the hard parts. Build better systems.**
+> **One mindset. Every layer. Better systems.**
 
-## The lab
+## The Universe
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🔬 Reverse Engineering</h3>
-      Static and dynamic analysis, PE/COFF, x86/x64, disassembly, decompilation, debugging, and behavior tracing.
+      Windows executables, PE/COFF, x86/x64, assembly, static and dynamic analysis, debugging, disassembly, decompilation, and behavior tracing.
     </td>
     <td width="33%" valign="top">
-      <h3>🧠 AI Engineering</h3>
-      AI-assisted code comprehension, pattern discovery, research workflows, automation, and rapid prototyping.
+      <h3>🧠 AI & Automation</h3>
+      AI-assisted development, code comprehension, pattern discovery, research workflows, intelligent automation, and rapid prototyping.
     </td>
     <td width="33%" valign="top">
-      <h3>🛠️ Software Tools</h3>
-      Desktop utilities, scripts, APIs, integrations, developer tools, and focused software for real workflows.
+      <h3>🌐 Web & Backend</h3>
+      Interfaces, full-stack applications, APIs, real-time systems, authentication, integrations, dashboards, and scalable services.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🖥️ Desktop & Mobile</h3>
+      Desktop applications, system utilities, cross-platform tools, productivity software, and mobile-ready experiences.
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Systems & Cloud</h3>
+      Linux, Windows, networking concepts, containers, cloud deployment, infrastructure, automation, and reliable delivery workflows.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ Security & Tooling</h3>
+      Defensive utilities, privacy-aware software, secure-by-default design, authorized research, developer tools, and technical documentation.
     </td>
   </tr>
 </table>
 
-### Binary focus
+## Capability map
 
-| Layer | Working focus |
+| Field | What I work across |
 | --- | --- |
-| **Formats** | Windows PE / COFF, executable structure, imports, exports, sections, resources |
-| **Architecture** | x86 / x64, calling conventions, memory behavior, control flow, assembly reasoning |
-| **Analysis** | Static analysis, dynamic analysis, debugging, tracing, decompilation, hypothesis testing |
-| **Output** | Clear findings, repeatable scripts, useful tooling, documentation, and safer systems |
+| **Languages** | C, C++, Python, JavaScript, TypeScript, Java, C#, Go, Rust, PHP, Ruby, Kotlin, Swift, Dart, SQL, Bash |
+| **Applications** | Web apps, APIs, desktop software, cross-platform tools, automation, integrations, local utilities |
+| **Systems** | Windows, Linux, executable formats, processes, memory concepts, debugging, containers, deployment |
+| **Intelligence** | AI-assisted coding, LLM workflows, code analysis, research automation, pattern discovery |
+| **Security** | Reverse engineering, binary analysis, defensive tooling, privacy, secure engineering, authorized testing |
+| **Delivery** | Git, GitHub, documentation, reproducible workflows, testing, performance, maintainability |
 
 ## Toolkit
 
 <div align="center">
   <a href="https://github.com/mahdi2372?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,windows,linux,git,github,vscode&perline=10" alt="C, C++, Python, JavaScript, TypeScript, Windows, Linux, Git, GitHub and VS Code" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,cs,go,rust,php,ruby,kotlin,swift,dart,bash&perline=15" alt="C, C++, Python, JavaScript, TypeScript, Java, C sharp, Go, Rust, PHP, Ruby, Kotlin, Swift, Dart and Bash" />
   </a>
 </div>
 
-`C / C++` · `Python` · `Assembly` · `JavaScript / TypeScript` · `PE / COFF` · `x86 / x64` · `Ghidra` · `IDA Pro` · `x64dbg` · `WinDbg` · `Frida` · `AI / LLM workflows`
+<div align="center">
+  <a href="https://github.com/mahdi2372?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,express,django,fastapi,dotnet,electron,flutter,graphql,tailwind,vite&perline=10" alt="React, Next.js, Angular, Vue, Node.js, Express, Django, FastAPI, .NET, Electron, Flutter, GraphQL, Tailwind and Vite" />
+  </a>
+</div>
 
-<sub>Selected tools and technologies — the right choice depends on the target, constraints, and objective.</sub>
+<div align="center">
+  <a href="https://github.com/mahdi2372?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,git,github,windows,linux,docker,kubernetes,aws,vercel,terraform,ansible,vscode&perline=10" alt="MongoDB, PostgreSQL, Redis, Firebase, Git, GitHub, Windows, Linux, Docker, Kubernetes, AWS, Vercel, Terraform, Ansible and VS Code" />
+  </a>
+</div>
+
+`PE / COFF` · `x86 / x64` · `Assembly` · `Ghidra` · `IDA Pro` · `x64dbg` · `WinDbg` · `Frida` · `AI / LLM workflows`
+
+<sub>A representative toolkit, not a limitation. The right technology depends on the problem, constraints, users, and desired outcome.</sub>
 
 ## Method
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>01</strong><br><sub>OBSERVE<br>Collect evidence</sub></td>
+      <td align="center"><strong>01</strong><br><sub>UNDERSTAND<br>Map the problem</sub></td>
       <td align="center">→</td>
-      <td align="center"><strong>02</strong><br><sub>MODEL<br>Understand behavior</sub></td>
+      <td align="center"><strong>02</strong><br><sub>DESIGN<br>Choose the right layer</sub></td>
       <td align="center">→</td>
-      <td align="center"><strong>03</strong><br><sub>VALIDATE<br>Test assumptions</sub></td>
+      <td align="center"><strong>03</strong><br><sub>BUILD<br>Make it reliable</sub></td>
       <td align="center">→</td>
-      <td align="center"><strong>04</strong><br><sub>AUTOMATE<br>Build repeatable tools</sub></td>
+      <td align="center"><strong>04</strong><br><sub>EVOLVE<br>Measure and improve</sub></td>
     </tr>
   </table>
 </div>
 
 ### Engineering principles
 
-- **Evidence over assumptions** — every conclusion should be explainable and testable.
-- **Automation over repetition** — turn recurring analysis into reliable tooling.
-- **Clarity over noise** — document complex behavior so other people can use the result.
-- **Security by default** — minimize risk, privilege, data exposure, and unnecessary complexity.
-- **Responsible impact** — leave systems better understood and safer than before.
+- **Evidence over assumptions** — understand behavior before drawing conclusions.
+- **The right tool for the job** — choose technology by requirements, not trend.
+- **Automation over repetition** — turn recurring work into reliable systems.
+- **Clarity over noise** — explain complexity so others can build on it.
+- **Security by default** — minimize risk, privilege, exposure, and unnecessary complexity.
 
 ## Research standard
 
@@ -124,7 +152,7 @@ Reverse engineering and security work should be responsible. My security-related
 
 ## Collaboration
 
-I’m interested in reverse engineering research, binary analysis, AI-assisted tooling, desktop utilities, automation, and developer-focused software. For a project idea, technical discussion, or collaboration, connect with me through GitHub.
+I’m interested in ambitious work across reverse engineering, AI-assisted tooling, web platforms, desktop applications, systems, automation, and security-focused software. For a project idea, technical discussion, or collaboration, connect with me through GitHub.
 
 <div align="center">
   <a href="https://github.com/mahdi2372">
@@ -138,15 +166,15 @@ I’m interested in reverse engineering research, binary analysis, AI-assisted t
 <br>
 
 <div align="center">
-  <code>STATUS: ANALYZING • BUILDING • LEARNING</code>
+  <code>STATUS: EXPLORING • BUILDING • EVOLVING</code>
   <br><br>
-  <i>Curiosity at low level. Clarity at every level. ✨</i>
+  <i>Every layer is a new language. Every problem is a new system. ✨</i>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/mahdi2372">
-    <img src="./assets/footer.svg" width="100%" alt="Mahdi reverse engineering profile footer" />
+    <img src="./assets/footer.svg" width="100%" alt="Mahdi full-spectrum developer profile footer" />
   </a>
 </div>

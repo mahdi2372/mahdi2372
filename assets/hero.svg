@@ -1,6 +1,6 @@
 <svg width="1600" height="440" viewBox="0 0 1600 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Mahdi reverse engineering profile</title>
-  <desc id="desc">A dark technical banner for a reverse engineer, AI builder, and software developer.</desc>
+  <desc id="desc">A dark technical banner for a full-spectrum software developer, reverse engineer, and AI builder.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="440" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
@@ -44,11 +44,11 @@
   <path d="M0 397C250 341 365 471 642 403C871 347 1061 275 1600 345" stroke="url(#line)" stroke-opacity="0.1" stroke-width="10" filter="url(#softGlow)"/>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="104" y="158" fill="#94A3B8" font-size="17" letter-spacing="5">REVERSE ENGINEERING / AI / SOFTWARE</text>
-    <text x="98" y="250" fill="#F8FAFC" font-size="92" font-weight="800" letter-spacing="-4">MAHDI</text>
+    <text x="104" y="158" fill="#94A3B8" font-size="17" letter-spacing="5">SOFTWARE / AI / SYSTEMS / SECURITY</text>
+    <text x="98" y="250" fill="#F8FAFC" font-size="64" font-weight="800" letter-spacing="-3">MAHDI // FULL SPECTRUM</text>
     <rect x="104" y="290" width="456" height="52" rx="26" fill="#0F172A" stroke="url(#accent)" stroke-width="1.5"/>
     <circle cx="134" cy="316" r="7" fill="#22C55E" filter="url(#softGlow)"/>
-    <text x="158" y="323" fill="#E2E8F0" font-size="16" font-weight="600" letter-spacing="2">BINARY LAB / ONLINE</text>
+    <text x="158" y="323" fill="#E2E8F0" font-size="16" font-weight="600" letter-spacing="2">ENGINEERING LAB / ONLINE</text>
   </g>
 
   <g transform="translate(1010 72)">
@@ -60,9 +60,9 @@
     <text x="102" y="27" fill="#64748B" font-size="12" font-family="monospace">mahdi@binary-lab:~</text>
     <g font-family="monospace" font-size="14">
       <text x="28" y="86" fill="#22C55E">$ whoami</text>
-      <text x="28" y="112" fill="#CBD5E1">reverse_engineer</text>
+      <text x="28" y="112" fill="#CBD5E1">full_spectrum_engineer</text>
       <text x="28" y="154" fill="#22C55E">$ mission</text>
-      <text x="28" y="180" fill="#CBD5E1">understand • automate • build</text>
+      <text x="28" y="180" fill="#CBD5E1">learn • build • connect</text>
       <text x="28" y="222" fill="#22C55E">$ status</text>
       <text x="28" y="248" fill="#06B6D4">authorized research // ready</text>
     </g>
