@@ -1,0 +1,71 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Reverse engineering analysis pipeline</title>
+  <desc id="desc">A five-step visual pipeline from executable input to a reliable tool or report.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="58" y1="190" x2="1340" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1400" height="430" rx="24" fill="url(#grid)"/>
+  <text x="58" y="64" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" letter-spacing="3">ANALYSIS PIPELINE</text>
+  <text x="58" y="96" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1">FROM UNKNOWN BEHAVIOR TO CLEAR UNDERSTANDING</text>
+
+  <path d="M110 196H1290" stroke="url(#edge)" stroke-width="3" stroke-opacity="0.65" filter="url(#glow)"/>
+  <path d="M292 196L307 187V205L292 196ZM562 196L577 187V205L562 196ZM832 196L847 187V205L832 196ZM1102 196L1117 187V205L1102 196Z" fill="#06B6D4"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(42 135)">
+      <rect width="220" height="124" rx="16" fill="#0B1220" stroke="#06B6D4" stroke-width="1.5"/>
+      <text x="22" y="36" fill="#06B6D4" font-size="13" font-weight="800" letter-spacing="2">01 / INPUT</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="21" font-weight="700">EXE / BINARY</text>
+      <text x="22" y="98" fill="#94A3B8" font-size="13">PE • COFF • DATA</text>
+    </g>
+    <g transform="translate(312 135)">
+      <rect width="220" height="124" rx="16" fill="#0B1220" stroke="#7C3AED" stroke-width="1.5"/>
+      <text x="22" y="36" fill="#A78BFA" font-size="13" font-weight="800" letter-spacing="2">02 / OBSERVE</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="21" font-weight="700">STATIC + DYNAMIC</text>
+      <text x="22" y="98" fill="#94A3B8" font-size="13">TRACE • MAP • FILTER</text>
+    </g>
+    <g transform="translate(582 135)">
+      <rect width="220" height="124" rx="16" fill="#0B1220" stroke="#8B5CF6" stroke-width="1.5"/>
+      <text x="22" y="36" fill="#C4B5FD" font-size="13" font-weight="800" letter-spacing="2">03 / REASON</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="21" font-weight="700">CONTROL FLOW</text>
+      <text x="22" y="98" fill="#94A3B8" font-size="13">x86 • x64 • MEMORY</text>
+    </g>
+    <g transform="translate(852 135)">
+      <rect width="220" height="124" rx="16" fill="#0B1220" stroke="#0EA5E9" stroke-width="1.5"/>
+      <text x="22" y="36" fill="#38BDF8" font-size="13" font-weight="800" letter-spacing="2">04 / VALIDATE</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="21" font-weight="700">TRACE + DEBUG</text>
+      <text x="22" y="98" fill="#94A3B8" font-size="13">TEST • REPEAT • PROVE</text>
+    </g>
+    <g transform="translate(1122 135)">
+      <rect width="220" height="124" rx="16" fill="#0B1220" stroke="#22C55E" stroke-width="1.5"/>
+      <text x="22" y="36" fill="#22C55E" font-size="13" font-weight="800" letter-spacing="2">05 / BUILD</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="21" font-weight="700">TOOL / REPORT</text>
+      <text x="22" y="98" fill="#94A3B8" font-size="13">AUTOMATE • EXPLAIN</text>
+    </g>
+  </g>
+
+  <g transform="translate(58 330)" font-family="monospace" font-size="14">
+    <rect width="1284" height="46" rx="23" fill="#020617" stroke="#334155"/>
+    <text x="28" y="29" fill="#22C55E">$</text>
+    <text x="52" y="29" fill="#CBD5E1">observe --model binary --validate --automate</text>
+    <text x="1165" y="29" fill="#06B6D4">READY</text>
+  </g>
+</svg>

@@ -4,18 +4,10 @@
   </a>
 
   <p>
-    <a href="https://github.com/mahdi2372">
-      <img src="https://komarev.com/ghpvc/?username=mahdi2372&label=PROFILE%20VIEWS&color=06B6D4&labelColor=020617&style=for-the-badge" alt="Profile views" />
-    </a>
-    <a href="https://github.com/mahdi2372?tab=followers">
-      <img src="https://img.shields.io/github/followers/mahdi2372?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=020617" alt="GitHub followers" />
-    </a>
-    <a href="https://github.com/mahdi2372?tab=repositories">
-      <img src="https://img.shields.io/badge/SCOPE-FULL%20SPECTRUM-06B6D4?style=for-the-badge&labelColor=020617" alt="Full spectrum engineering scope" />
-    </a>
-    <a href="https://github.com/mahdi2372">
-      <img src="https://img.shields.io/badge/MODE-AI%20ASSISTED-22C55E?style=for-the-badge&labelColor=020617" alt="AI assisted development" />
-    </a>
+    <a href="https://github.com/mahdi2372"><code>PROFILE / ONLINE</code></a>
+    <a href="https://github.com/mahdi2372?tab=followers"><code>FOLLOW / CONNECT</code></a>
+    <a href="https://github.com/mahdi2372?tab=repositories"><code>SCOPE / FULL SPECTRUM</code></a>
+    <a href="https://github.com/mahdi2372"><code>MODE / AI ASSISTED</code></a>
   </p>
 </div>
 
@@ -70,6 +62,12 @@ From low-level executable and binary analysis to high-level web platforms, deskt
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/mahdi2372?tab=repositories">
+    <img src="./assets/analysis.svg" width="100%" alt="Reverse engineering analysis pipeline" />
+  </a>
+</div>
+
 ## Capability map
 
 | Field | What I work across |
@@ -85,19 +83,7 @@ From low-level executable and binary analysis to high-level web platforms, deskt
 
 <div align="center">
   <a href="https://github.com/mahdi2372?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,cs,go,rust,php,ruby,kotlin,swift,dart,bash&perline=15" alt="C, C++, Python, JavaScript, TypeScript, Java, C sharp, Go, Rust, PHP, Ruby, Kotlin, Swift, Dart and Bash" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/mahdi2372?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,express,django,fastapi,dotnet,electron,flutter,graphql,tailwind,vite&perline=10" alt="React, Next.js, Angular, Vue, Node.js, Express, Django, FastAPI, .NET, Electron, Flutter, GraphQL, Tailwind and Vite" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/mahdi2372?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,git,github,windows,linux,docker,kubernetes,aws,vercel,terraform,ansible,vscode&perline=10" alt="MongoDB, PostgreSQL, Redis, Firebase, Git, GitHub, Windows, Linux, Docker, Kubernetes, AWS, Vercel, Terraform, Ansible and VS Code" />
+    <img src="./assets/toolkit.svg" width="100%" alt="Full-spectrum developer toolkit" />
   </a>
 </div>
 
@@ -137,30 +123,20 @@ Reverse engineering and security work should be responsible. My security-related
 
 <div align="center">
   <a href="https://github.com/mahdi2372">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahdi2372&show_icons=true&hide_border=true&border_radius=12&bg_color=020617&title_color=06B6D4&icon_color=7C3AED&text_color=F8FAFC&rank_icon=github" height="180" alt="Mahdi's GitHub statistics" />
-  </a>
-  <a href="https://github.com/mahdi2372?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2372&layout=compact&hide_border=true&border_radius=12&bg_color=020617&title_color=06B6D4&text_color=F8FAFC" height="180" alt="Most used programming languages" />
+    <img src="./assets/telemetry.svg" width="100%" alt="Mahdi engineering telemetry" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/mahdi2372?tab=overview">
-    <img src="https://streak-stats.demolab.com?user=mahdi2372&background=020617&hide_border=true&border_radius=12&ring=06B6D4&fire=7C3AED&currStreakLabel=22C55E&sideLabels=06B6D4&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" alt="GitHub contribution streak" />
-  </a>
-</div>
+<p align="center"><sub>For live repositories, commits, languages, and contribution history, visit the profile and repository tabs above.</sub></p>
 
 ## Collaboration
 
 I’m interested in ambitious work across reverse engineering, AI-assisted tooling, web platforms, desktop applications, systems, automation, and security-focused software. For a project idea, technical discussion, or collaboration, connect with me through GitHub.
 
 <div align="center">
-  <a href="https://github.com/mahdi2372">
-    <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=06B6D4" alt="Visit Mahdi's GitHub profile" />
-  </a>
-  <a href="https://github.com/mahdi2372?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-020617?style=for-the-badge&logo=rocket&logoColor=7C3AED" alt="View Mahdi's projects" />
-  </a>
+  <a href="https://github.com/mahdi2372"><code>OPEN GITHUB PROFILE</code></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mahdi2372?tab=repositories"><code>VIEW PROJECTS</code></a>
 </div>
 
 <br>
