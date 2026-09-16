@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:0D1117,72:7C3AED,100:00FF9D&height=260&section=header&text=MAHDI.exe&fontSize=62&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=DEVELOPER%20MODE%20%E2%80%94%20ONLINE&descAlignY=60&descSize=18" width="100%" alt="Mahdi developer profile header" />
+  <a href="https://github.com/mahdi2372">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:0D1117,72:7C3AED,100:00FF9D&height=260&section=header&text=MAHDI.exe&fontSize=62&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=DEVELOPER%20MODE%20%E2%80%94%20ONLINE&descAlignY=60&descSize=18" width="100%" alt="Mahdi developer profile header" />
+  </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=720&lines=Building+the+future+one+commit+at+a+time;Code.+Create.+Conquer.;No+bugs%2C+only+unexpected+features" alt="Developer mode typing animation" />
+  <a href="https://github.com/mahdi2372">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=720&lines=Building+the+future+one+commit+at+a+time;Code.+Create.+Conquer.;No+bugs%2C+only+unexpected+features" alt="Developer mode typing animation" />
+  </a>
 
   <p>
     <a href="https://github.com/mahdi2372">
@@ -10,7 +14,9 @@
     <a href="https://github.com/mahdi2372?tab=followers">
       <img src="https://img.shields.io/github/followers/mahdi2372?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="GitHub followers" />
     </a>
-    <img src="https://img.shields.io/badge/STATUS-BUILDING-FF0080?style=for-the-badge&labelColor=0D1117" alt="Current status: building" />
+    <a href="https://github.com/mahdi2372">
+      <img src="https://img.shields.io/badge/STATUS-BUILDING-FF0080?style=for-the-badge&labelColor=0D1117" alt="Current status: building" />
+    </a>
   </p>
 </div>
 
@@ -52,28 +58,40 @@ I am **Mahdi** — a curious developer who enjoys transforming bold ideas into c
 ## 🧰 Digital arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code" />
+  <a href="https://github.com/mahdi2372?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code" />
+  </a>
 </div>
 
 ## 📊 System telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi2372&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF9D&icon_color=FF0080&text_color=F8FAFC&rank_icon=github" height="175" alt="Mahdi's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2372&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF9D&text_color=F8FAFC" height="175" alt="Most used programming languages" />
+  <a href="https://github.com/mahdi2372">
+    <img src="https://github-readme-stats.vercel.app/api?username=mahdi2372&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF9D&icon_color=FF0080&text_color=F8FAFC&rank_icon=github" height="175" alt="Mahdi's GitHub statistics" />
+  </a>
+  <a href="https://github.com/mahdi2372?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2372&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00FF9D&text_color=F8FAFC" height="175" alt="Most used programming languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahdi2372&background=0D1117&hide_border=true&border_radius=12&ring=00FF9D&fire=FF0080&currStreakLabel=7C3AED&sideLabels=00FF9D&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" alt="GitHub contribution streak" />
+  <a href="https://github.com/mahdi2372?tab=overview">
+    <img src="https://streak-stats.demolab.com?user=mahdi2372&background=0D1117&hide_border=true&border_radius=12&ring=00FF9D&fire=FF0080&currStreakLabel=7C3AED&sideLabels=00FF9D&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="72%" alt="GitHub contribution streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi2372&bg_color=0D1117&color=00FF9D&line=7C3AED&point=FF0080&area=true&hide_border=true" width="94%" alt="GitHub activity graph" />
+  <a href="https://github.com/mahdi2372?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi2372&bg_color=0D1117&color=00FF9D&line=7C3AED&point=FF0080&area=true&hide_border=true" width="94%" alt="GitHub activity graph" />
+  </a>
 </div>
 
 ## 🏆 Achievement unlocked
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahdi2372&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" width="92%" alt="GitHub trophies" />
+  <a href="https://github.com/mahdi2372">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahdi2372&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7" width="92%" alt="GitHub trophies" />
+  </a>
 </div>
 
 ## 🤝 Establish connection
@@ -96,5 +114,7 @@ I am **Mahdi** — a curious developer who enjoys transforming bold ideas into c
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,35:7C3AED,70:0D1117,100:050505&height=120&section=footer" width="100%" alt="Developer profile footer" />
+  <a href="https://github.com/mahdi2372">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9D,35:7C3AED,70:0D1117,100:050505&height=120&section=footer" width="100%" alt="Developer profile footer" />
+  </a>
 </div>
