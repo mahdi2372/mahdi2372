@@ -1,0 +1,56 @@
+<svg width="1400" height="330" viewBox="0 0 1400 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Full-spectrum developer toolkit</title>
+  <desc id="desc">Languages, application platforms, systems, and delivery tools used across a broad engineering workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="top" x1="56" y1="0" x2="1338" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1400" height="330" rx="24" fill="url(#grid)"/>
+  <rect x="58" y="48" width="1284" height="2" fill="url(#top)"/>
+  <text x="58" y="38" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="3">THE TOOLKIT</text>
+  <text x="58" y="87" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">SELECT THE RIGHT LAYER. CONNECT THE WHOLE SYSTEM.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(58 122)">
+      <rect width="300" height="148" rx="16" fill="#0B1220" stroke="#06B6D4"/>
+      <text x="22" y="34" fill="#06B6D4" font-size="12" font-weight="800" letter-spacing="2">LANGUAGES</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="20" font-weight="700">C / C++ / Python</text>
+      <text x="22" y="100" fill="#CBD5E1" font-size="16">JS / TS / Java / C#</text>
+      <text x="22" y="128" fill="#94A3B8" font-size="14">Go • Rust • PHP • SQL</text>
+    </g>
+    <g transform="translate(382 122)">
+      <rect width="300" height="148" rx="16" fill="#0B1220" stroke="#7C3AED"/>
+      <text x="22" y="34" fill="#A78BFA" font-size="12" font-weight="800" letter-spacing="2">APPLICATIONS</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="20" font-weight="700">Web / Desktop / Mobile</text>
+      <text x="22" y="100" fill="#CBD5E1" font-size="16">APIs • Tools • Automation</text>
+      <text x="22" y="128" fill="#94A3B8" font-size="14">UI • Data • Integrations</text>
+    </g>
+    <g transform="translate(706 122)">
+      <rect width="300" height="148" rx="16" fill="#0B1220" stroke="#0EA5E9"/>
+      <text x="22" y="34" fill="#38BDF8" font-size="12" font-weight="800" letter-spacing="2">SYSTEMS</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="20" font-weight="700">Windows / Linux</text>
+      <text x="22" y="100" fill="#CBD5E1" font-size="16">PE / x86 / x64 / Assembly</text>
+      <text x="22" y="128" fill="#94A3B8" font-size="14">Memory • Processes • Debugging</text>
+    </g>
+    <g transform="translate(1030 122)">
+      <rect width="312" height="148" rx="16" fill="#0B1220" stroke="#22C55E"/>
+      <text x="22" y="34" fill="#22C55E" font-size="12" font-weight="800" letter-spacing="2">DELIVERY</text>
+      <text x="22" y="70" fill="#F8FAFC" font-size="20" font-weight="700">Git / Docker / Cloud</text>
+      <text x="22" y="100" fill="#CBD5E1" font-size="16">AI workflows • CI/CD</text>
+      <text x="22" y="128" fill="#94A3B8" font-size="14">Docs • Testing • Release</text>
+    </g>
+  </g>
+</svg>

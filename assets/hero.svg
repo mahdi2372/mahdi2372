@@ -1,0 +1,71 @@
+<svg width="1600" height="440" viewBox="0 0 1600 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mahdi reverse engineering profile</title>
+  <desc id="desc">A dark technical banner for a full-spectrum software developer, reverse engineer, and AI builder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="94" y1="316" x2="638" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="line" x1="976" y1="82" x2="1487" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1390 92) rotate(130) scale(430 520)">
+      <stop stop-color="#06B6D4" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 440) rotate(-28) scale(560 260)">
+      <stop stop-color="#7C3AED" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="440" rx="24" fill="url(#bg)"/>
+  <rect width="1600" height="440" rx="24" fill="url(#grid)"/>
+  <rect width="1600" height="440" rx="24" fill="url(#cyanGlow)"/>
+  <rect width="1600" height="440" rx="24" fill="url(#purpleGlow)"/>
+  <path d="M0 388C250 332 365 462 642 394C871 338 1061 266 1600 336" stroke="url(#line)" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M0 397C250 341 365 471 642 403C871 347 1061 275 1600 345" stroke="url(#line)" stroke-opacity="0.1" stroke-width="10" filter="url(#softGlow)"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="104" y="158" fill="#94A3B8" font-size="17" letter-spacing="5">SOFTWARE / AI / SYSTEMS / SECURITY</text>
+    <text x="98" y="250" fill="#F8FAFC" font-size="64" font-weight="800" letter-spacing="-3">MAHDI // FULL SPECTRUM</text>
+    <rect x="104" y="290" width="456" height="52" rx="26" fill="#0F172A" stroke="url(#accent)" stroke-width="1.5"/>
+    <circle cx="134" cy="316" r="7" fill="#22C55E" filter="url(#softGlow)"/>
+    <text x="158" y="323" fill="#E2E8F0" font-size="16" font-weight="600" letter-spacing="2">ENGINEERING LAB / ONLINE</text>
+  </g>
+
+  <g transform="translate(1010 72)">
+    <rect x="0" y="0" width="466" height="284" rx="18" fill="#020617" fill-opacity="0.86" stroke="#334155" stroke-width="1.5"/>
+    <rect x="1" y="1" width="464" height="42" rx="17" fill="#111827"/>
+    <circle cx="27" cy="22" r="6" fill="#FB7185"/>
+    <circle cx="49" cy="22" r="6" fill="#FBBF24"/>
+    <circle cx="71" cy="22" r="6" fill="#34D399"/>
+    <text x="102" y="27" fill="#64748B" font-size="12" font-family="monospace">mahdi@binary-lab:~</text>
+    <g font-family="monospace" font-size="14">
+      <text x="28" y="86" fill="#22C55E">$ whoami</text>
+      <text x="28" y="112" fill="#CBD5E1">full_spectrum_engineer</text>
+      <text x="28" y="154" fill="#22C55E">$ mission</text>
+      <text x="28" y="180" fill="#CBD5E1">learn • build • connect</text>
+      <text x="28" y="222" fill="#22C55E">$ status</text>
+      <text x="28" y="248" fill="#06B6D4">authorized research // ready</text>
+    </g>
+    <path d="M386 222L406 242L438 204" stroke="#22C55E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+  </g>
+</svg>
