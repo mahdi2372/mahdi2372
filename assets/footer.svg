@@ -1,0 +1,26 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mahdi profile footer</title>
+  <desc id="desc">A minimal dark footer with a cyan and violet engineering signature.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="80" x2="1480" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#06B6D4"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="0.82" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="180" rx="24" fill="url(#bg)"/>
+  <rect width="1600" height="180" rx="24" fill="url(#grid)"/>
+  <path d="M90 80H1510" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="800" cy="80" r="7" fill="#06B6D4"/>
+  <text x="800" y="125" text-anchor="middle" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="4">BUILD WITH PRECISION • SHIP WITH PURPOSE</text>
+</svg>
